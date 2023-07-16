@@ -1,6 +1,8 @@
 # HR-Analytics-Dashboard
 The objective of this dashboard is to identify the prominent reason behind the attritions. We have created the HR ANALYTICS DASHBOARD to identify the trend and patterns by using Microsoft PowerBI.
-  Summary form report:
+
+# Summary form report:-
+
 1.     Maximum 26 years to 35 years’ age-group professionals left his jobs.
 2.     In early years of carrier (between 6month to 1 year), attrition rate is high.
 3.     Maximum people are those who have salary less than average salary.
